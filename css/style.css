@@ -3378,8 +3378,8 @@ hr {
 .button-primary-outline:hover,
 .button-primary-outline:active {
     color: #ffffff;
-    background-color: #3061ff;
-    border-color: #3061ff;
+    background-color: #eaef57;
+    border-color: #eaef57;
 }
 
 .button-primary-outline.button-ujarak::before {
@@ -11324,7 +11324,7 @@ html.tablet .ui-to-top {
     content: "";
     position: absolute;
     left: 0;
-    top: -6px;
+    top: -16px;
     transition: .3s all ease;
 }
 
